@@ -1,0 +1,21 @@
+{
+  "name": "stimpak-project",
+  "version": "0.0.1",
+  "description": "Prompt for basic information needed for any project of any type.",
+  "main": "lib/generator.js",
+  "keywords": [
+    "stimpak"
+  ],
+  "license": "MIT",
+  "author": "dcrockwell",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FreeAllMedia/stimpak-project"
+  },
+  "bugs": {
+    "url": "https://github.com/FreeAllMedia/stimpak-project/issues"
+  },
+  "homepage": "https://github.com/FreeAllMedia/stimpak-project#readme",
+	"dependencies": {},
+  "devDependencies": {}
+}
