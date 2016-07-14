@@ -1,6 +1,6 @@
 {
   "name": "stimpak-project",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Prompt for basic information needed for any project of any type.",
   "main": "lib/generator.js",
   "keywords": [
